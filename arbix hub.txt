@@ -6,8 +6,8 @@ local Lighting = game:GetService("Lighting")
 local Players = game:GetService("Players")
 local Player = Players.LocalPlayer
 
-local key = "arbix hub"
-local discordLink = "https://discord.gg/EXK4dQxJBv"
+local key = "Penguin Hub"
+local discordLink = "https://discord.gg/tgmpNJ5z"
 local scriptToLoad = [[
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
